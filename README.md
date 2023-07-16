@@ -2,9 +2,9 @@
 ### Software and account Requirement.
 
 1. [Github Account](https://github.com)
-2. [Heroku Account]
-3. [VS Code]
-4. [Git CLI]
+2. [Heroku Account](https://id.heroku.com/login)
+3. [VS Code](https://code.visualstudio.com/)
+4. [Git CLI](https://git-scm.com/downloads)
 
 Creating Conda Enviroments
 ```
